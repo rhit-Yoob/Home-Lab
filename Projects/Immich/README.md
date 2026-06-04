@@ -6,9 +6,13 @@ Immich is a self hosted photo and video backup solution — a private alternativ
 ---
 
 ## Why I built it
+- **Family was constantly running out of storage on their phones** due 
+  to large photo and video collections with no backup solution
+- Needed a way to automatically back up family photos without relying 
+  on paid cloud storage like iCloud or Google Photos
 - Learn Docker containerization in a real world project
 - Set up a self hosted service on Debian Linux
-- Give family members a private photo backup solution
+- Give family members a private and unlimited photo backup solution
 - Practice server administration and storage management
 
 ---
