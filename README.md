@@ -34,10 +34,9 @@ Real hardware and software issues encountered and resolved during setup:
 ## Setup
 Step by step guides for rebuilding this server from scratch:
 
-1. [Debian Installation](setup/01-debian-install.md)
-2. [Sudo and User Setup](setup/02-sudo-setup.md)
-3. [Docker Installation](setup/03-docker-install.md)
-4. [SSH Setup](setup/04-ssh-setup.md)
+1. [Debian Setup](setup/01-Debian-Setup.md)
+2. [Sudo and User Setup](setup/02-Sudo&User-Setup.md)
+3. [Docker Installation](setup/03-Docker-Setup.md)
 
 ---
 
@@ -45,10 +44,6 @@ Step by step guides for rebuilding this server from scratch:
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Immich](projects/immich/README.md) | Self hosted photo and video backup server | ✅ Complete |
-| Nginx Web Server | Self hosted web server in Docker | 🔄 Coming soon |
-| Pi-hole | Network wide DNS ad blocker | 🔄 Coming soon |
-| Portainer | Docker container management UI | 🔄 Coming soon |
-| Grafana | Server monitoring dashboard | 🔄 Coming soon |
 
 ---
 
