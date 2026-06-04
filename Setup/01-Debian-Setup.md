@@ -1,7 +1,7 @@
 # Debian Installation Guide
 
 ## Overview
-Step by step guide for installing Debian 13 Bookworm on a laptop as a headless home lab server.
+Step by step guide for installing Debian 13 on a laptop as a headless home lab server.
 
 ---
 
@@ -15,7 +15,7 @@ Step by step guide for installing Debian 13 Bookworm on a laptop as a headless h
 
 ## Step 1 — Download Debian ISO
 1. Go to **debian.org/download**
-2. Download **Debian 13 Bookworm netinstall ISO**
+2. Download **Debian 13 netinstall ISO**
 3. Select **amd64** for standard Intel/AMD laptops
 4. File size is around **750MB**
 
@@ -144,8 +144,8 @@ exit
 ---
 
 ## Next Steps
-- [Sudo and User Setup](02-sudo-setup.md) — configure sudo access
-- [Docker Installation](03-docker-install.md) — install Docker
+- [Sudo and User Setup](02-Sudo&User-Setup.md) — configure sudo access
+- [Docker Installation](03-Docker-Setup.md) — install Docker
 
 ---
 
@@ -162,7 +162,5 @@ exit
 **Disk not detected:**
 - Disable Secure Boot in BIOS
 - Disable Intel RST in BIOS
-- See [Troubleshooting Guide](../docs/troubleshooting/README.md)
+- See [Troubleshooting Guide](../Docs/Troubleshooting)
 
-**Permission denied errors:**
-- See [Sudo and User Setup](02-sudo-setup.md)
