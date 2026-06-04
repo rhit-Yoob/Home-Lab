@@ -34,16 +34,16 @@ Real hardware and software issues encountered and resolved during setup:
 ## Setup
 Step by step guides for rebuilding this server from scratch:
 
-1. [Debian Install](setup/01-Debian-Install.md)
-2. [Sudo and User Setup](setup/02-Sudo&User-Setup.md)
-3. [Docker Installation](setup/03-Docker-Setup.md)
+1. [Debian Install](Setup/01-Debian-Install.md)
+2. [Sudo and User Setup](Setup/02-Sudo&User-Setup.md)
+3. [Docker Installation](Setup/03-Docker-Setup.md)
 
 ---
 
 ## Projects
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Immich](projects/immich/README.md) | Self hosted photo and video backup server | ✅ Complete |
+| [Immich](projects/Immich/README.md) | Self hosted photo and video backup server | ✅ Complete |
 
 ---
 
