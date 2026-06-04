@@ -43,7 +43,7 @@ Step by step guides for rebuilding this server from scratch:
 ## Projects
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Immich](projects/Immich/README.md) | Self hosted photo and video backup server | ✅ Complete |
+| [Immich](Projects/Immich/README.md) | Self hosted photo and video backup server | ✅ Complete |
 
 ---
 
