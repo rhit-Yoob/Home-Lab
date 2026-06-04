@@ -34,7 +34,7 @@ Real hardware and software issues encountered and resolved during setup:
 ## Setup
 Step by step guides for rebuilding this server from scratch:
 
-1. [Debian Setup](setup/01-Debian-Setup.md)
+1. [Debian Install](setup/01-Debian-Install.md)
 2. [Sudo and User Setup](setup/02-Sudo&User-Setup.md)
 3. [Docker Installation](setup/03-Docker-Setup.md)
 
