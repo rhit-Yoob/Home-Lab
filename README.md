@@ -49,9 +49,6 @@ Step by step guides for rebuilding this server from scratch:
 
 ## Scripts
 Automation scripts for server management:
-- `update.sh` — System update and upgrade
-- `backup.sh` — Automated photo backup script
-- `monitor.sh` — System resource monitoring
 
 ---
 
@@ -65,15 +62,6 @@ Automation scripts for server management:
 - Bash scripting
 - Git version control
 - Technical documentation
-
----
-
-## Certifications In Progress
-- 🔄 CompTIA A+
-- 🔄 CompTIA Network+
-- 🔄 CompTIA Security+
-- 🔄 AWS Cloud Practitioner
-- 🔄 AWS Solutions Architect Associate
 
 ---
 
